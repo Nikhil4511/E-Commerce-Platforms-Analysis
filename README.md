@@ -148,11 +148,11 @@ The dashboards are built to simulate real-world business scenarios and provide a
 - Practical business insight generation
 
 # Screenshot
-## [Blinkit]
+##  [Blinkit]
 <img width="1179" height="658" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/0c514ae9-d917-45c6-8c07-f063a5b85843" />
-## [Myntra]
+##  [Myntra]
 <img width="1187" height="671" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/181a0eac-0b89-465a-844d-6f7c0d87d90a" />
-## [Zepto]
+##  [Zepto]
 <img width="1197" height="674" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/d40330d0-58bf-458c-8c83-43cd9416206c" />
-## [Flipkart]
+##  [Flipkart]
 <img width="1210" height="683" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/78d8bec4-0631-4a05-bca6-a55ad1c74712" />
